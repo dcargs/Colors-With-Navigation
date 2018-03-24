@@ -13,6 +13,7 @@
 		031886E92065D4B800C65E07 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 031886E72065D4B800C65E07 /* LaunchScreen.storyboard */; };
 		031886F12065D52E00C65E07 /* ColorsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 031886F02065D52E00C65E07 /* ColorsViewController.swift */; };
 		031886F32065D8EC00C65E07 /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = 031886F22065D8EC00C65E07 /* Color.swift */; };
+		031886F52065DE0400C65E07 /* ColorDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 031886F42065DE0400C65E07 /* ColorDetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		031886EA2065D4B800C65E07 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		031886F02065D52E00C65E07 /* ColorsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsViewController.swift; sourceTree = "<group>"; };
 		031886F22065D8EC00C65E07 /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
+		031886F42065DE0400C65E07 /* ColorDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorDetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				031886EA2065D4B800C65E07 /* Info.plist */,
 				031886F02065D52E00C65E07 /* ColorsViewController.swift */,
 				031886F22065D8EC00C65E07 /* Color.swift */,
+				031886F42065DE0400C65E07 /* ColorDetailViewController.swift */,
 			);
 			path = "Colors With Navigation";
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 				031886F12065D52E00C65E07 /* ColorsViewController.swift in Sources */,
 				031886DF2065D4B800C65E07 /* AppDelegate.swift in Sources */,
 				031886F32065D8EC00C65E07 /* Color.swift in Sources */,
+				031886F52065DE0400C65E07 /* ColorDetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
